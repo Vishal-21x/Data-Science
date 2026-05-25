@@ -1,4 +1,3 @@
-Housing-Price-Predictor-DeepLearning
 # 🏠 Housing Price Prediction Using Deep Learning
 
 ## 🎯 Objective
