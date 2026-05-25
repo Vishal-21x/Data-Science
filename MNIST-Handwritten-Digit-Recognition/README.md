@@ -5,6 +5,10 @@ Build a Neural Network that can look at a handwritten digit image
 and accurately predict which number (0–9) it represents.
 
 ---
+## 🔍 Sample Predictions — Handwritten Digit Recognition
+
+<img width="795" height="385" alt="image" src="https://github.com/user-attachments/assets/4e695fae-c05a-488a-859c-2c3c45280f74" />
+
 
 ## 📊 Dataset
 **MNIST Dataset** — one of the most well-known datasets in Machine Learning.
